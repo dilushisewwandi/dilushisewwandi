@@ -1,6 +1,8 @@
+<div align="center">
+
 ## Hello 👋, I'm Dilushika Sewwandi
 
-
+</div>
 
 <!--
 **dilushisewwandi/dilushisewwandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
