@@ -1,9 +1,15 @@
 <div align="center">
 
-## Hello 👋, I'm Dilushika Sewwandi
+## Hi 👋, I'm Dilushika Sewwandi
+
 
 </div>
 
+- 🌱 I’m currently studying at the **School of Computing, NIBM**
+- 👩🏼‍💻 I’m interested in Software Developing 
+- 📫 How to reach me: dilushisewwandi89@gmail.com
+
+  
 <!--
 **dilushisewwandi/dilushisewwandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
