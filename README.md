@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studying at the **School of Computing, NIBM**
 - 👩🏼‍💻 I’m interested in Software Developing 
-- 📫 How to reach me: dilushisewwandi89@gmail.com
+- 📫 How to reach me: dilushi928@outlook.com
 
   
 <!--
